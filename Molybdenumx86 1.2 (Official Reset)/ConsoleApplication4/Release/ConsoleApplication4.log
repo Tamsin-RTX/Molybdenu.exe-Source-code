@@ -1,0 +1,9 @@
+﻿  ConsoleApplication4.cpp
+ConsoleApplication4.obj : warning LNK4229: 遇到无效的指令“/MANIFESTUAC:level='requireAdministrator' uiAccess='false'”；已忽略
+  正在生成代码
+  2 of 467 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ConsoleApplication4.vcxproj -> C:\Users\Tamsin-RTX\source\repos\ConsoleApplication4\Release\Molybdenumx86.exe.exe
+  ConsoleApplication4.vcxproj -> C:\Users\Tamsin-RTX\source\repos\ConsoleApplication4\Release\Molybdenumx86.exe.pdb (Full PDB)
